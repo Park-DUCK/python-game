@@ -1,2 +1,1 @@
-'i love you'
-'i hate you'
+"git 명령어 재확인"
