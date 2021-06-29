@@ -26,3 +26,4 @@ font=("Times New Roman", 36), fg="skyblue") # 버튼 컴포넌트 생성
 button.place(x=360, y=400) # 버튼 배치
 
 root.mainloop() # 윈도우 표시
+
