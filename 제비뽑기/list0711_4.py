@@ -16,4 +16,5 @@ label = tkinter.Label(root, text="??", font=("Times New Roman", 120), bg="White"
 label.place(x=380, y=60)
 button = tkinter.Button(root, text="제비뽑기", font=("Times New Roman", 36), command=click_btn, fg="skyblue") # 버튼 컴포넌트 생성
 button.place(x=360, y=400) # 버튼 배치
-root.mainloop() 
+root.mainloop()
+#.
