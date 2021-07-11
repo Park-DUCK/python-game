@@ -12,4 +12,4 @@ font=("Times New Roman", 24), # 버튼 컴포넌트 생성
 command = click_btn) #2 command=로 클릭 시 동작할 함수 지정
 
 button.place(x=200, y= 100) # 윈도우에 버튼 배치
-root.mainloop() # 윈도우 표시
+root.mainloop() # 윈도우 표시 
